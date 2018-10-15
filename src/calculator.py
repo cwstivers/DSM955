@@ -1,4 +1,5 @@
 # Program make a simple calculator that can add, subtract, multiply and divide using functions
+# DSM 955 - Final Project 
 
 # This function adds two numbers 
 def add(x, y):
